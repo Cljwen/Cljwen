@@ -29,7 +29,7 @@ Former marketing lead turned software engineer, passionate about creating impact
 #### Projects
 - **RocketShip:** Full-stack app for software project owners to look for funders and contributors. Users can share and/or contribute software projects by backing it or coding. [PERN Stack, NextJS, Stripe API] [Repo](https://github.com/Boxyboxy/rocketship)
 - **Give & Take:** Full-stack app that lets locals and users to give away or request items that others may no longer need to reduce waste. [PERN Stack] [Frontend Repo](https://github.com/Cljwen/GT-Project3-Frontend)| [Backend Repo](https://github.com/Cljwen/GT-Project3-Backend)
-- **Walk a dog:** Full-stack app for dog owners with dog walkers. Users can create or accept dog walking jobs with the location and fees. [Express, NodeJs, Firebase] 
+- **Walk a dog:** Full-stack app for dog owners with dog walkers. Users can create or accept dog walking jobs with the location and fees. [Express, NodeJs, Firebase] [Frontend Repo](https://github.com/Cljwen/project2-bootcamp)
  
 
 <!--
